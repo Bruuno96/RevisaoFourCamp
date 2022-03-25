@@ -1,0 +1,2 @@
+Escrevendo um texto 
+E pulando uma linha usando FileWriter
